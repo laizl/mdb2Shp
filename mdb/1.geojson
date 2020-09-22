@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "1584410328748",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "9235dcdd-b1ec-4fb2-8c28-54241ffe6cf5", "signature": "abf39306-b34c-4fde-943b-fe6c596626bd", "signatore": "1@4", "timestamp": "2020\/03\/16", "route": "新建测试", "route_sect": "测试分段1", "measure": "初测", "projectId": "20200223172352-sub1-ph2", "outsideAN": "就到家", "insideAN": "还等你吗", "longitude": 116.415448026433, "latitude": 39.712267529952697, "altitude": 20.0, "date": 1583814605101.0, "wellForm": null, "wellShape": null, "waterDepth": null, "wellDepth": null, "airTempera": null, "weather": null, "ASLitholo": null, "AOLitholo": null, "AUStrata": null, "EffVolume": null, "MeaMethod": null, "PPColor": null, "PPTempera": null, "PPSmell": null, "PPSmel2": null, "tparency": "请选择透明程度", "dDChanges": null, "PUtilizat": null, "WSampleNum": null, "media": [ ], "handDrawn": [ ], "investigat": null, "inve_check": null, "X": null, "Y": null, "projection": null }, "geometry": { "type": "Point", "coordinates": [ 116.415448026432571, 39.712267529952733, 20.0 ] } }
+]
+}

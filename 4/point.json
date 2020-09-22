@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "point",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "aae3e0ce-5421-4c5e-8589-76ef9e4dd35f", "signature": "6c4bd997-38c4-49f4-839b-d9b20fee5eac", "signatore": "胡", "timestamp": "2020\/03\/24", "route": "新建测试", "route_sect": "测试分段1", "measure": "初测", "projectId": "20200228093324-sub1-ph1", "outsideAN": "Point", "insideAN": "Point1", "date": 1584293192100.0, "type": "滑坡", "media": "[99631ea9-406f-4841-af12-f12915798f43.jpeg, 22033756-1a35-4659-8231-62980eb80559.mp4]", "handDrawn": [ ], "expanation": "bdnk" }, "geometry": { "type": "Point", "coordinates": [ 116.000015258789062, 39.000034332275391, 0.0 ] } }
+]
+}

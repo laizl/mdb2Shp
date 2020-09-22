@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "point",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "481d6e32-a3f9-431e-ae13-202f52b7c089", "signature": "c1d5b2a7-c2d9-4311-b5aa-9e6e8b7b245e", "signatore": "1@4", "timestamp": "2020\/03\/18", "route": "新建川藏铁路雅安至昌都", "route_sect": "泸定至康定段", "measure": "定测", "projectId": "20200223172352-sub1-ph2", "outsideAN": "不良", "insideAN": null, "date": 1584495854133.0, "type": "请选择地质类型", "media": [ ], "handDrawn": [ ], "expanation": null }, "geometry": { "type": "Point", "coordinates": [ 116.0, 39.0, 0.0 ] } }
+]
+}
