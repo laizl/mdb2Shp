@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "1676339765034",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "84c1d2ca-c9bb-491c-a3ef-4379bb8dcedf", "signature": "b6ff52f4-3311-4609-aa8e-99deb59f76d6", "signatore": "hexi", "timestamp": "2023\/02\/14", "route": "hexi-test", "route_sect": "分段1", "measure": "初测", "projectId": "20230106194419-sub1-ph1", "outsideAN": "gouzao001", "insideAN": "001", "longitude": 116.41995599000001, "latitude": 40.03200648, "altitude": 70.80108642578125, "date": 1676339307667, "incli_1": "41.8", "incliA_1": "26.0", "incli_2": "325.7", "incliA_2": "14.2", "CPName": "禾溪构造001", "CPNature": "正断层", "faultWidth": "12", "OFAFPlane": "褶皱轴面", "expanation": "构造观测点说明", "media": "[d6abfb54-d25b-4634-a173-8ef5011e44e5.jpeg]", "handDrawn": "[1cfcbe4f-8a4e-4e01-8e2e-06561f161866.PNG]", "investigat": "hexi", "inve_check": "hexi", "X": "4065187.31629597", "Y": "5349712.09904513", "projection": "WGS84 6 degree GK CM 75E", "path": "D:\/HeXiEarth_v2.1\/data\/hexi_project\/hexi-test\/�ֶ�1\/����\/�۲��\/1676339765034", "type": "geo-op-structure" }, "geometry": { "type": "Point", "coordinates": [ 116.41995599, 40.03200648, 70.80108642578125 ] } }
+]
+}

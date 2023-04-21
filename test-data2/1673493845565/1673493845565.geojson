@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "1673493845565",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "8bfe6730-3d12-401b-bd6f-851ccbd53e81", "signature": "97b623c2-7160-4d46-ab41-ef4cfc86a3cd", "signatore": "ceshi", "timestamp": "2023\/01\/12", "route": "hexi-test", "route_sect": "åˆ†æ®µ1", "measure": "åˆæµ‹", "projectId": "20230106194419-sub1-ph1", "outsideAN": "yiban1", "insideAN": "001", "longitude": 116.41992683746693, "latitude": 40.031852417761108, "altitude": 0, "date": 1673493818532, "beddIOne": "5", "beddIAOne": "6", "beddITwo": "5", "beddIATwo": "6", "jointI_1": "3", "jointIA_1": "3", "jointI_2": "2", "jointIA_2": "12", "jointI_3": "5", "jointIA_3": "8", "jointI_4": "9", "jointIA_4": "1", "jointI_5": "7", "jointIA_5": "3", "expanation": "è§‚æµ‹ç‚¹è¯´æ˜", "media": "[a317654a-2c09-454f-b956-7e8919b53b19.jpeg]", "handDrawn": "[cf1ce23a-7ccb-40f0-94c9-100fbb9c003c.PNG]", "investigat": "æµ‹è¯•1", "inve_check": "æµ‹è¯•2", "X": "4065194.62150323", "Y": "5349693.41709224", "projection": "WGS84 6 degree GK CM 75E", "path": "D:\/HeXiEarth_v2.1\/data\/hexi_project\/hexi-test\/·Ö¶Î1\/³õ²â\/¹Û²âµã\/1673493845565", "type": "geo-op-general" }, "geometry": { "type": "Point", "coordinates": [ 116.419926837466932, 40.031852417761108, 0.0 ] } }
+]
+}

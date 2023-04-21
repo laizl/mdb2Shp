@@ -1,4 +1,7 @@
-./../5/1.shp geo-op-qj false
-./../5/1.shp geo-op-structure false
-./../5/1.shp geo-op-general false
-./../5/1.shp geo-bad-geology false
+./test-data2/1673493845565/1673493845565.shp geo-op-general false
+./test-data2/1676339765034/1676339765034.shp geo-op-structure false
+./test-data2/1676339781635/1676339781635.shp geo-op-qj false
+./test-data2/1676342368379/1676342368379.shp geo-op-qj false
+./test-data2/1676340260472/polyline.shp geo-bad-geology false
+./test-data2/1676340260472/point.shp geo-bad-geology false
+./test-data2/1676340260472/polygon.shp geo-bad-geology false

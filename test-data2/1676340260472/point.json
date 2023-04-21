@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "point",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "3c8f4b41-a5d0-4a63-b9d3-1eef33428e0f", "signature": "f823707e-e332-412d-8d66-b5cadd6ee9b9", "signatore": "husumei", "timestamp": "2023\/02\/14", "route": "hexi-test", "route_sect": "分段1", "measure": "初测", "projectId": "20230106194419-sub1-ph1", "outsideAN": "点", "insideAN": "d1", "date": 1676285097371.0, "type": "冰碛物", "media": "[a8442630-7152-4c2a-88f9-5d5ee5cf9333.jpeg]", "handDrawn": "[8e6f300f-969a-48fa-93d2-3cdf4434fec0.PNG]", "expanation": "不良地质点", "X": null, "Y": null, "projection": null }, "geometry": { "type": "Point", "coordinates": [ 116.426666259765625, 40.037223815917983, 0.0 ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "1676339781635",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "46b981d5-05ea-407b-87c6-214375128af3", "signature": "b6ff52f4-3311-4609-aa8e-99deb59f76d6", "signatore": "hexi", "timestamp": "2023\/02\/14", "route": "hexi-test", "route_sect": "分段1", "measure": "初测", "projectId": "20230106194419-sub1-ph1", "outsideAN": "jingquan001", "insideAN": "001", "longitude": 116.41972901, "latitude": 40.03202333, "altitude": 37.49200439453125, "date": 1676339457722, "wellForm": "类型多边形", "wellShape": "圆形", "waterDepth": "12", "wellDepth": "30", "airTempera": "25", "weather": "晴", "ASLitholo": "不详", "AOLitholo": "不详", "AUStrata": "不详", "EffVolume": "10", "MeaMethod": "抽水法", "PPColor": "无色", "PPTempera": "15", "PPSmell": "无", "PPSmel2": "无", "tparency": "透明", "dDChanges": "无", "PUtilizat": "无", "WSampleNum": "002", "media": "[ad924338-7cfe-41f9-83a3-2c77bb646d98.jpg]", "handDrawn": "[8f91c681-2393-4e90-9d68-4093bc6cabcf.PNG]", "investigat": "hexi", "inve_check": "hexi", "X": "4065166.68337371", "Y": "5349702.86755512", "projection": "WGS84 6 degree GK CM 75E", "path": "D:\/HeXiEarth_v2.1\/data\/hexi_project\/hexi-test\/�ֶ�1\/����\/�۲��\/1676339781635", "type": "geo-op-qj" }, "geometry": { "type": "Point", "coordinates": [ 116.41972901, 40.03202333, 37.49200439453125 ] } }
+]
+}

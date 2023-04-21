@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "polyline",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "831769be-b969-4c34-9bbb-843ebaaba565", "signature": "b6ff52f4-3311-4609-aa8e-99deb59f76d6", "signatore": "hexi", "timestamp": "2023\/02\/14", "route": "hexi-test", "route_sect": "分段1", "measure": "初测", "projectId": "20230106194419-sub1-ph1", "outsideAN": "buliang002", "insideAN": "002", "date": 1676339555645.0, "type": "泥石流", "media": "[55458327-5bd6-4e7f-b679-6b32bca2f819.jpeg]", "handDrawn": "[56de4cfe-b979-4de7-b499-d90e21256a79.PNG]", "expanation": "观测点说明泥石流", "X": null, "Y": null, "projection": null }, "geometry": { "type": "LineString", "coordinates": [ [ 116.454025268554688, 41.190567016601577, 1249.310756026301306 ], [ 116.236772308225341, 40.960497535025731, 1092.439561918625714 ], [ 116.616738683031215, 40.879383911661378, 602.711444133979285 ], [ 116.573851801294737, 41.198537996353032, 793.055366492794519 ], [ 116.46120347192155, 41.194418005697749, 1215.44159553539771 ] ] } }
+]
+}

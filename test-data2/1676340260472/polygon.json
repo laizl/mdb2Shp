@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "polygon",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "151a5d87-26bb-4493-84ec-fcf1d9f11c70", "signature": "f823707e-e332-412d-8d66-b5cadd6ee9b9", "signatore": "husumei", "timestamp": "2023\/02\/14", "route": "hexi-test", "route_sect": "分段1", "measure": "初测", "projectId": "20230106194419-sub1-ph1", "outsideAN": "面", "insideAN": "m1", "date": 1676285140380.0, "type": "错落", "media": "[e05ccc84-ce64-4525-b06d-931b3c1a48fd.jpeg]", "handDrawn": "[03a12447-d58b-467a-b0fb-f6ff680f6ce6.PNG]", "expanation": "不良地质面", "X": null, "Y": null, "projection": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 116.432143941282604, 39.991424505400573, 42.037309335030493 ], [ 116.448999397562034, 39.95827397645634, 44.212820370370103 ], [ 116.429247589004234, 39.958403011489928, 42.28706265958774 ], [ 116.421139094196818, 39.975205579570172, 48.914814900479342 ], [ 116.432143941282604, 39.991424505400573, 42.037309335030493 ] ] ] } }
+]
+}

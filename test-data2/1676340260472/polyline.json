@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "polyline",
+"features": [
+{ "type": "Feature", "properties": { "sync_id": "13037701-9771-4324-b9e9-2ae6cdace05e", "signature": "f823707e-e332-412d-8d66-b5cadd6ee9b9", "signatore": "husumei", "timestamp": "2023\/02\/14", "route": "hexi-test", "route_sect": "分段1", "measure": "初测", "projectId": "20230106194419-sub1-ph1", "outsideAN": "线", "insideAN": "x1", "date": 1676285114417.0, "type": "表层溜岩", "media": "[245e8797-3e71-40bd-b020-b8fa3f72078e.jpeg]", "handDrawn": "[24d419fa-85d1-4b21-b68b-debb9dcb7de0.PNG]", "expanation": "不良地质线", "X": null, "Y": null, "projection": null }, "geometry": { "type": "LineString", "coordinates": [ [ 116.426531508246953, 40.020619989797076, 42.577370916260577 ], [ 116.422708799288785, 40.011654639303174, 42.073996323564813 ], [ 116.421265092256192, 39.999710711235515, 40.513743161924936 ] ] } }
+]
+}
